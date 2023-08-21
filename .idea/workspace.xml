@@ -1,50 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7fe40da-b8e7-40f6-93bf-27456343e1c0" name="Changes" comment="Add project">
-      <change beforePath="$PROJECT_DIR$/92da0b25e36381c7ae3c.webmanifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/app.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/app.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/subset-Manrope-Bold505de507f2d9376728b3.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/subset-Manrope-Bold5b2f5b8ff03789991d32.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/subset-Manrope-ExtraBold42695db726264826e19e.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/subset-Manrope-ExtraBold5b25fa731d6459f61611.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/subset-Manrope-ExtraLightcf0aab0a3a50b1b80e28.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/subset-Manrope-ExtraLighteea5978f1515ba5eaf4b.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/subset-Manrope-Light52f7235db88c52d04b59.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/subset-Manrope-Lightbb6b607d7c7ccfb71ded.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/subset-Manrope-Medium07688d0b2c0cb053a8c9.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/subset-Manrope-Mediuma5a6c6b4a221da1d2a14.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/subset-Manrope-Regulara6b9271c707cd079faff.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/subset-Manrope-Regulard2a67b59b5e672155b98.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/alertddaa886e6178a7e157f9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/apple-touch-icon05a1a88f9cc010fe973e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/background-1-mba5c42261d36d0ab8aab8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/background-172e8ce28d5f623e2024e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/background-3638cd1a9ab4006427a5b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/background-79199e94f5dd344607a6d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/biometrics2bb76accdbda9a04cc16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/eye68f22b2c7d61a120741d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/faced5508fa224e24813ba8f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon-16x1678b19ede12728727cd81.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon-32x32cfead67bd2fcb60d54a7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/fingerprintce42b4aec754d3e9826b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/glassese6416677e0cce693081c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/hacker95595071e070c382f275.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/keya4000ac8497838feb610.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/laptop-216d1d506852103b1c31f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/lockb9123220d6969d56a1b9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/locke4097ccadadf9346af10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/loupe8137cb0756011105807f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/password9fa812190cf51612aa11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/pie-110092dd510edf0d75a3b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/pie-226d34a387df31c90cc5f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/securitye768fe15db07fc173e64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/886.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/886.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/app.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    <list default="true" id="f7fe40da-b8e7-40f6-93bf-27456343e1c0" name="Changes" comment="Fix size header on mobile  - orientation: landscape">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1692554051023</updated>
       <workItem from="1692554052487" duration="124000" />
-      <workItem from="1692622501671" duration="310000" />
+      <workItem from="1692622501671" duration="1217000" />
     </task>
     <task id="LOCAL-00001" summary="Add project">
       <created>1692554110744</created>
@@ -93,14 +54,33 @@
       <option name="project" value="LOCAL" />
       <updated>1692554110744</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fix size header on mobile  - orientation: landscape">
+      <created>1692622895799</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692622895799</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add project" />
+    <MESSAGE value="Fix size header on mobile  - orientation: landscape" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix size header on mobile  - orientation: landscape" />
   </component>
 </project>
